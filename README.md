@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/JuanPabllo" alt="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
+  <a href="https://twitter.com/Juan_Pabl00o" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=Twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/juanpablodev/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
