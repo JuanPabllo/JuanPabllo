@@ -1,6 +1,6 @@
 <h2>👨🏻‍💻 Juan Pablo</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/Juan_Pabl00o" alt="Twitter">
     <img src="https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=Twitter&logoColor=white" />
   </a>
