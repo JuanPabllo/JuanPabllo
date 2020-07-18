@@ -1,4 +1,4 @@
-👨🏻‍💻 Juan Pablo
+<h2>👨🏻‍💻 Juan Pablo</h2>
 
 <p align="center">
   <a href="https://twitter.com/Juan_Pabl00o" alt="Twitter">
