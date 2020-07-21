@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Juan Pablo!</h1>
-<h3 align="center">A passionate frontend developer from Brazil, I venture into the Backend with NodeJs</h3>
+<h3 align="center">A passionate front-end developer from Brazil, I venture into the Backend with NodeJs</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpabllo" alt="juanpabllo" /> </p>
 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/juanpablodev/)
