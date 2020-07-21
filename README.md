@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil, I venture into the Backend with NodeJs</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpabllo" alt="juanpabllo" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/juanpablodev/](https://www.linkedin.com/in/juanpablodev/)
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/juanpablodev/)
 
 - 📝 I regulary write articles on [Web development](Web development)
 
