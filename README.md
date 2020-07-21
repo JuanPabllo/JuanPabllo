@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/juanpablodev/)
 
-- 📝 I regulary write articles on [Web development](Web development)
+- 📝 I regularly write articles on web development and Javascript in general 
 
 - 📫 How to reach me **dev.juanpabllo@gmail.com**
 
