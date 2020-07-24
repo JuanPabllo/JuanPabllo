@@ -8,6 +8,9 @@
 
 - 📫 How to reach me **dev.juanpabllo@gmail.com**
 
+<p align="center">
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <img  <img src="https://github-readme-stats.vercel.app/api?username=juanpabllo&show_icons=true" alt="juanpabllo" /> </p>
+
 
 
 <p align="center">
