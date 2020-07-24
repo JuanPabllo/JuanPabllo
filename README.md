@@ -9,7 +9,7 @@
 - 📫 How to reach me **dev.juanpabllo@gmail.com**
 
 <p align="center">
-  src="https://github-readme-stats.vercel.app/api?username=juanpabllo&show_icons=true" alt="juanpabllo" /> 
+<img  <img src="https://github-readme-stats.vercel.app/api?username=juanpabllo&show_icons=true" alt="juanpabllo" /> </p>
 </p>
 
 
