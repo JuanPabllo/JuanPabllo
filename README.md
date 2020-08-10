@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Brazilian FrontEnd Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpabllo" alt="juanpabllo" /> </p>
 
-- 🔭 I’m currently working on ***
+- 🔭 I’m currently working on a Open source project at [He4rt developers](https://github.com/he4rt/4noobs) on [React4Noobs](https://github.com/he4rt/react4noobs) and my person project [Simple-toDo](https://github.com/JuanPabllo/Simple-ToDo)
 
 - 🌱 I’m currently learning **ReactJS, React Native, NodeJs**
 
