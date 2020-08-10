@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS, React Native, NodeJs**
 
-- 👨‍💻 All of my projects are available at **Coming soon**
+- 👨‍💻 All of my projects are available at (**Coming soon**)
 
 - 💬 Ask me about **Front-End**
 
