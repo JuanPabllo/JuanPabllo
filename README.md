@@ -17,7 +17,7 @@
 <center>
   <table>
     <tr>
-      <td><img  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=juanpabllo&show_icons=true" alt="juanpabllo" /></td>
+      <td><img  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=juanpabllo&show_icons=true" alt="juanpabllo" /></td>
 <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabllo&hide=html&layout=compact&theme=default" /></td>
 </tr>   
   </table>
