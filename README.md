@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at (**Coming soon**)
 
-- 💬 Ask me about **Front-End**
+// - 💬 Ask me about **Front-End**
 
 - 📫 How to reach me **dev.juanpabllo@gmail.com**
 
