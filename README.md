@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpabllo" alt="juanpabllo" /> </p>
 
 - 🔭 I’m currently working on a Open source project at [He4rt developers](https://github.com/he4rt/4noobs) on [React4Noobs](https://github.com/he4rt/react4noobs).
-- 🌱 I’m currently learning **Javascript, NodeJs, C**
+- 🌱 I’m currently learning **Javascript, NodeJs, C**.
 
-- 👨‍💻 All of my projects are available at (**Coming soon**)
+- 👨‍💻 All of my projects are available at (**Coming soon**).
 
 <!-- - 💬 Ask me about **Front-End** -->
 
