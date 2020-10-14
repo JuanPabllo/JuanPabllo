@@ -26,6 +26,6 @@
 <a href="https://linkedin.com/in/juanpablodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juanpablodev" height="20" width="20" /></a>
 <a href="https://instagram.com/juan_pablloreal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juan_pablloreal" height="20" width="20" /></a>
  <a href="https://dev.to/juanpabllo">
- <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Juan Pablo's DEV Profile" height="30" width="30">
+ <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Juan Pablo's DEV Profile" height="20" width="20">
 </a>
 </p>
