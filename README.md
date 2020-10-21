@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a Open source project at [He4rt developers](https://github.com/he4rt/4noobs) on [React4Noobs](https://github.com/he4rt/react4noobs).
 - 🌱 I’m currently learning **Javascript, NodeJs, C, Typescript**.
 
-- 👨‍💻 All of my projects are available at (**Coming soon**).
+- 👨‍💻 All of my projects are available at [Dev.to](https://dev.to/juanpabllo)
 
 <!-- - 💬 Ask me about **Front-End** -->
 
@@ -28,6 +28,6 @@ Onde me encontrar? :mag:
 
 <a href="https://www.linkedin.com/in/juanpablodev/"><img src="https://github.com/juanpabllo/juanpabllo/blob/master/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/juanpablodev/)
 
-<a href="mailto:juanpablo192.dreaw@gmail.com"><img src="https://github.com/JuanPabllo/JuanPabllo/blob/master/images/email.png" width="16"></img></a> [Email](mailto:juanpablo192.dreaw@gmail.com)
+<a href="mailto:juanpablo192.dreaw@gmail.com"><img src="https://github.com/JuanPabllo/JuanPabllo/blob/master/images/email.png" width="16"></img></a> [Email](mailto:dev.juanpabllo@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpabllo" alt="juanpabllo" /> </p>
