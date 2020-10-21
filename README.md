@@ -1,9 +1,9 @@
 ![capa Juan](https://github.com/JuanPabllo/JuanPabllo/blob/master/images/Juan.png)
 
 - 🔭 I’m currently working on a Open source project at [He4rt developers](https://github.com/he4rt/4noobs) on [React4Noobs](https://github.com/he4rt/react4noobs).
-- 🌱 I’m currently learning **Javascript, NodeJs, C, Typescript**.
+- 🌱 I’m currently learning **Javascript, NodeJs, ReactJS, Typescript**.
 
-- 👨‍💻 All of my projects are available at (**Coming soon**).
+- 👨‍💻 All of my projects are available at [Dev.to](https://dev.to/juanpabllo)
 
 <!-- - 💬 Ask me about **Front-End** -->
 
