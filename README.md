@@ -20,7 +20,7 @@
   </table>
 </center>
 
-Where to find me? :mag:
+### Where to find me? :mag:
 
 <a href="https://twitter.com/Juan_Pabl00o"><img src="https://github.com/JuanPabllo/JuanPabllo/blob/master/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/Juan_Pabl00o)
 
