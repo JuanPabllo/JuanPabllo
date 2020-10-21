@@ -22,12 +22,12 @@
 
 Onde me encontrar? :mag:
 
-<a href="https://twitter.com/Juan_Pabl00o"><img src="https://github.com/juanpabllo/juanpabllo/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/Juan_Pabl00o)
+<a href="https://twitter.com/Juan_Pabl00o"><img src="https://github.com/JuanPabllo/JuanPabllo/blob/master/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/Juan_Pabl00o)
 
-<a href="https://www.instagram.com/juan_pablloreal/"><img src="https://github.com/juanpabllo/juanpabllo/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/juan_pablloreal/)
+<a href="https://www.instagram.com/juan_pablloreal/"><img src="https://github.com/JuanPabllo/JuanPabllo/blob/master/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/juan_pablloreal/)
 
-<a href="https://www.linkedin.com/in/juanpablodev/"><img src="https://github.com/juanpabllo/juanpabllo/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/juanpablodev/)
+<a href="https://www.linkedin.com/in/juanpablodev/"><img src="https://github.com/JuanPabllo/JuanPabllo/blob/master/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/juanpablodev/)
 
-<a href="mailto:juanpablo192.dreaw@gmail.com"><img src="https://github.com/juanpabllo/juanpabllo/blob/main/images/email.png" width="16"></img></a> [Email](mailto:juanpablo192.dreaw@gmail.com)
+<a href="mailto:juanpablo192.dreaw@gmail.com"><img src="https://github.com/JuanPabllo/JuanPabllo/blob/master/images/email.png" width="16"></img></a> [Email](mailto:juanpablo192.dreaw@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpabllo" alt="juanpabllo" /> </p>
