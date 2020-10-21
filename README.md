@@ -18,6 +18,7 @@
 <td><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabllo&hide=html&layout=compact&theme=material-palenight" /></td>
 </tr>   
   </table>
+</center>
 
 Onde me encontrar? :mag:
 
