@@ -18,12 +18,6 @@
 <td><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabllo&hide=html&layout=compact&theme=material-palenight" /></td>
 </tr>   
   </table>
-</center>
-<p align="center">
-<a href="https://twitter.com/juan_pabl00o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juan_pabl00o" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/juanpablodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juanpablodev" height="20" width="20" /></a>
-<a href="https://instagram.com/juan_pablloreal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juan_pablloreal" height="20" width="20" /></a>
-</p>
 
 Onde me encontrar? :mag:
 
