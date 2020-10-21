@@ -1,7 +1,5 @@
 ![capa Juan](https://github.com/JuanPabllo/JuanPabllo/blob/master/image/Juan.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpabllo" alt="juanpabllo" /> </p>
-
 - 🔭 I’m currently working on a Open source project at [He4rt developers](https://github.com/he4rt/4noobs) on [React4Noobs](https://github.com/he4rt/react4noobs).
 - 🌱 I’m currently learning **Javascript, NodeJs, C, Typescript**.
 
@@ -26,3 +24,5 @@
 <a href="https://linkedin.com/in/juanpablodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juanpablodev" height="20" width="20" /></a>
 <a href="https://instagram.com/juan_pablloreal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juan_pablloreal" height="20" width="20" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpabllo" alt="juanpabllo" /> </p>
