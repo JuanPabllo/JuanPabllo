@@ -28,6 +28,6 @@ Onde me encontrar? :mag:
 
 <a href="https://www.linkedin.com/in/juanpablodev/"><img src="https://github.com/juanpabllo/juanpabllo/blob/master/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/juanpablodev/)
 
-<a href="mailto:juanpablo192.dreaw@gmail.com"><img src="https://github.com/JuanPabllo/JuanPabllo/blob/master/images/email.png" width="16"></img></a> [Email](mailto:dev.juanpabllo@gmail.com
+<a href="mailto:juanpablo192.dreaw@gmail.com"><img src="https://github.com/JuanPabllo/JuanPabllo/blob/master/images/email.png" width="16"></img></a> [Email](mailto:dev.juanpabllo@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpabllo" alt="juanpabllo" /> </p>
