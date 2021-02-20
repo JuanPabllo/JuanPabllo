@@ -1,7 +1,7 @@
 ![capa Juan](./images/Juan.png)
 
 - 🔭 I’m currently working on a Open source project at [He4rt developers](https://github.com/he4rt/4noobs) on [React4Noobs](https://github.com/he4rt/react4noobs).
-- 🌱 I’m currently learning **Javascript, NodeJs, ReactJS, Typescript**.
+- 🌱 I’m currently learning **Javascript, NodeJs, ReactJS, Typescript, SQL**.
 
 - 👨‍💻 I'm writing in [Dev.to](https://dev.to/juanpabllo)
 
