@@ -1,13 +1,13 @@
-![capa Juan](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif)
+![](https://media.giphy.com/media/a1QLZUUtCcgyA/giphy.gif)
 
-- 🔭 I’m currently working on a Open source project at [He4rt developers](https://github.com/he4rt/4noobs) on [React4Noobs](https://github.com/he4rt/react4noobs).
+- 🔭 I am currently working as a Full Stack developer at Grupo Lira.
 - 🌱 I’m currently learning **Javascript, NodeJs, ReactJS, Typescript, SQL**.
 
 - 👨‍💻 I'm writing in [Dev.to](https://dev.to/juanpabllo)
 
 <!-- - 💬 Ask me about **Front-End** -->
 
-- 📫 How to reach me **dev.juanpabllo@gmail.com**
+- 📫 How to reach me **juanpablo.codes@gmail.com**
 
 ### Where to find me? :mag:
 
@@ -17,7 +17,7 @@
 
 <a href="https://www.linkedin.com/in/juanpablodev/"><img src="./images/linkedin.png" width="16"/></a> [LinkedIn](https://www.linkedin.com/in/juanpablodev/)
 
-<a href="mailto:juanpablo192.dreaw@gmail.com"><img src="./images/email.png" width="16"/></a> [Email](mailto:juanpablo192.dreaw@gmail.com)
+<a href="mailto:juanpablo.codes@gmail.com"><img src="./images/email.png" width="16"/></a> [Email](mailto:juanpablo.codes@gmail.com)
 
 <center>
   <table>
