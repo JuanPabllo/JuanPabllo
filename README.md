@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/a1QLZUUtCcgyA/giphy.gif)
 
-- 🔭 I am currently working as a Full Stack developer
+- 🔭 I am currently working as a Frontend developer at [WeJam](https://wejam.digital/)
 - 🌱 I’m currently learning **Javascript, NodeJs, ReactJS, Typescript, SQL**.
 
 - 👨‍💻 I'm writing in [Dev.to](https://dev.to/juanpabllo)
