@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/a1QLZUUtCcgyA/giphy.gif)
 
-- 🌱 I’m currently learning **Javascript, NodeJs, ReactJS, Typescript, Next.js**.
+- 🌱 **Javascript, NodeJs, ReactJS, Typescript, Next.js, Golang**.
 
 - 👨‍💻 I'm writing in [Dev.to](https://dev.to/juanpabllo)
 
