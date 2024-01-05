@@ -1,12 +1,14 @@
 ![Coding GIF](https://media.giphy.com/media/a1QLZUUtCcgyA/giphy.gif)
 
-With almost 4 years of experience as a developer, I excel in crafting innovative solutions, spanning both frontend and mobile development. In the frontend domain, I leverage cutting-edge technologies such as Next.js and React, ensuring the delivery of modern and intuitive interfaces.
+👨‍💻 Developer specialized in Front end and Mobile, I take advantage of technologies such as React, ReactNative and NextJS, ensuring the delivery of modern and intuitive interfaces.
 
-In the mobile realm, I am involved from conceptualization to publication on the Apple Store and Google Play, utilizing React Native to provide unique user experiences. My proactive and organized approach translates into delivering agile solutions with successful outcomes.
+I'm involved from conceptualization to publishing on AWS, Apple Store, and Google Play to provide unique experiences for users. My proactive and organized approach translates into the delivery of agile solutions.
 
-Furthermore, I bring a solid background in challenging projects, including the development of a digital bank. Tackling complex challenges and delivering innovative solutions is one of my specialties. Behind the scenes, I hold expertise in backend development, particularly excelling in technologies like Golang and Node.js. This understanding allows me to contribute comprehensively to the success of expansive projects.
+Furthermore, I bring solid experience in challenging projects, including FinTech development. Facing complex challenges and delivering innovative solutions is one of my specialties.
 
-I hold a degree in Software Engineering, complementing my practical experience with a strong foundation in theoretical knowledge.
+I have experience in backend development, especially in technologies such as Golang and Node.js. This understanding allows me to contribute comprehensively to the success of projects.
+
+I have a degree in Software Engineering, complementing my practical experience with a solid base of theoretical knowledge.
 
 - 👨‍💻 Writing on [Dev.to](https://dev.to/juanpabllo)
 
