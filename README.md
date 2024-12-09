@@ -1,5 +1,3 @@
-![Coding GIF](https://media.giphy.com/media/a1QLZUUtCcgyA/giphy.gif)
-
 👨‍💻 Developer specialized in Front end and Mobile, I take advantage of technologies such as React, ReactNative and NextJS, ensuring the delivery of modern and intuitive interfaces.
 
 I'm involved from conceptualization to publishing on AWS, Apple Store, and Google Play to provide unique experiences for users. My proactive and organized approach translates into the delivery of agile solutions.
